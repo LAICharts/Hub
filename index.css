@@ -39,7 +39,7 @@ body {
 	font-size: 2em;
 	background-color: lightsteelblue;
 	color: darkblue;
-	opacity: 0.7;
+	opacity: 0.8;
 }
 @media all and (min-width:321px) and (max-width: 480px) and (orientation: portrait) {
 	.row1 {
@@ -65,7 +65,7 @@ body {
 		font-size: 1.7em;
 		background-color: lightsteelblue;
 		color: darkblue;
-		opacity: 0.7;
+		opacity: 0.6;
 	}
   }
 .demo-1 .main-title {
