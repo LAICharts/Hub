@@ -197,5 +197,5 @@ function goToLI(){
 }
 
 function goToIP(){
-    alert("Interview Platform is under cunstruction. We are excited to be up soon :)")
+    alert("Interview Platform is under construction. We are excited to be up soon :)")
 }
