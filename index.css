@@ -28,6 +28,7 @@ body {
 
 .row0 {
 	width: 100%;
+	padding-bottom: 20px;
 }
 
 .special-btn {
@@ -47,6 +48,7 @@ body {
 	}
 	.row0 {
 		width: 50%;
+		padding-bottom: 0;
 	}
 	.main-title {
 		color: #f9f1e9;
